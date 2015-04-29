@@ -20,7 +20,7 @@ if sys.argv[-1] == 'docs':
 
 setup(
     name='Rubra',
-    version='0.1.6',
+    version='0.1.7',
     author='Bernie Pope',
     author_email='bjpope@unimelb.edu.au',
     packages=['rubra'],
